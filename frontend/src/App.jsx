@@ -2,7 +2,7 @@ function App() {
   return (
     <>
       <center>
-        <h1>ImproveMemory</h1>
+        <h1>Welcome to ImproveMemory</h1>
       </center>
     </>
   )
